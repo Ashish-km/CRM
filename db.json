@@ -1,0 +1,80 @@
+{
+  "user": [
+    {
+      "id": "omshgri",
+      "name": "inin",
+      "password": "Omshri1234",
+      "email": "omitchi@gmail.com",
+      "gender": "male",
+      "role": "telecaller",
+      "isActive": true
+    },
+    {
+      "id": "Ashish",
+      "name": "Ashish ",
+      "password": "Ashish1233",
+      "email": "ashish@gmail.com",
+      "gender": "male",
+      "role": "sales",
+      "isActive": true
+    },
+    {
+      "id": "ASDsad",
+      "name": "aSDasd",
+      "password": "AASDa233",
+      "email": "ASdsadA@gamil.com",
+      "gender": "male",
+      "role": "telecaller",
+      "isActive": true
+    },
+    {
+      "id": "kanha",
+      "name": "kanha ",
+      "password": "Kanha123",
+      "email": "ashish@gmai.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "ayoush",
+      "name": "Ayoush",
+      "password": "ayoushji123AA",
+      "email": "ayous@gamil.com",
+      "gender": "male",
+      "role": "sales",
+      "isActive": true
+    },
+    {
+      "id": "pawan",
+      "name": "Pawan Ajmera",
+      "password": "Pawan123",
+      "email": "pawan@123",
+      "gender": "male",
+      "role": "tester",
+      "isActive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "hr",
+      "name": "HR"
+    },
+    {
+      "code": "sales",
+      "name": "Sales"
+    },
+    {
+      "code": "telecaller",
+      "name": "Telecaller"
+    },
+    {
+      "code": "tester",
+      "name": "Tester"
+    },
+    {
+      "code": "manager",
+      "name": "Manager"
+    }
+  ]
+}
